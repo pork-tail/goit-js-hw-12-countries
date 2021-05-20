@@ -1,0 +1,56 @@
+body {
+    background-image: url('https://cdn.wallpapersafari.com/64/46/9l7ftA.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+img {
+  display: block;
+}
+
+ul {
+    color: white;
+    list-style: none;
+    padding: 0;
+    font-size: 25px;
+}
+
+.search {
+    display: block;
+    margin: 200px auto 0;
+}  
+
+.countries-list {
+    text-align: center;
+}
+
+.card-info {
+    color: white;
+    margin-right: 40px;
+}  
+
+.card-body {
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.card-title {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+.list-item {
+  color: white;
+  font-size: 15px;
+  margin-bottom: 5px;
+}
+
+.card-text {
+ color: white;
+ font-size: 20px;
+}
+
+
+
